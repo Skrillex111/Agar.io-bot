@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Launcher
-// @namespace   AposLauncher
+// @name        TURKEY
+// @namespace   TURKEY
 // @include     http://agar.io/
 // @version     2.85
 // @grant       none
@@ -975,7 +975,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  names = ["NotReallyABot"],
+  names = ["TURKEY"],
   originalName = names[Math.floor(Math.random() * names.length)],
   sessionScore = 0,
   serverIP = "",
