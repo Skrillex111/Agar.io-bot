@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        TURKEY
+// @namespace   TURKEY
 // @include     http://agar.io/
 // @version     3.31
 // @grant       none
